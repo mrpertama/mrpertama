@@ -32,10 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mrpertama/mrpertama/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">🌐 Lets Connect!</h3>
 
 ###
